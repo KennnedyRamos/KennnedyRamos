@@ -1,14 +1,14 @@
 
 ### Ola! Eu sou o Kennedy Ramos 👋😊
 
+### Contato
+* [Icloud](/kennedy_ramos@icloud.com)
+* [Gmail](/kennedyrafaelsilvaramos@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
 
-
-![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=KennnedyRamos&show_icons=true&theme=dark)
-
-
-![Linguagens mais utiliadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KennnedyRamos&theme=blue-green)
+Estudante dedicado, apaixonado por programação e imerso no universo da tecnologia. Busco constantemente desafios que me permitam aprimorar minhas habilidades e contribuir para 
+soluções inovadoras, ajudando pessoas.
 
 
 ### Tecnologias que eu estou familiarizado
@@ -25,10 +25,6 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br/>
 
-Estudante dedicado, apaixonado por programação e imerso no universo da tecnologia. Busco constantemente desafios que me permitam aprimorar minhas habilidades e contribuir para 
-soluções inovadoras, ajudando pessoas.
+![Linguagens mais utiliadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KennnedyRamos&theme=blue-green)
 
-### Contato
-
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kennedyrafaelsilvaramos@gmail.com)
-
+![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=KennnedyRamos&show_icons=true&theme=dark)
