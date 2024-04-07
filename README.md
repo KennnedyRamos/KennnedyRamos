@@ -2,8 +2,6 @@
 ### Ola! Eu sou o Kennedy Ramos 👋😊
 
 ### Contato
-* [Icloud](/kennedy_ramos@icloud.com)
-* [Gmail](/kennedyrafaelsilvaramos@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
 
