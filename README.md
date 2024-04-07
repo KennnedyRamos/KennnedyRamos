@@ -1,8 +1,6 @@
 
 ### Ola! Eu sou o Kennedy Ramos 👋😊
 
-### Contato
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
 
 Estudante dedicado, apaixonado por programação e imerso no universo da tecnologia. Busco constantemente desafios que me permitam aprimorar minhas habilidades e contribuir para 
