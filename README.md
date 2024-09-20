@@ -1,4 +1,3 @@
-
 ### Ola! Eu sou o Kennedy Ramos 👋😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
