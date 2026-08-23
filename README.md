@@ -20,7 +20,7 @@ Atualmente, meu foco está no desenvolvimento de **APIs, aplicações web e apli
 * 🗄️ Banco de dados com **PostgreSQL**
 * 🔥 Desenvolvimento com **Firebase**
 * 🔧 Versionamento com **Git e GitHub**
-* 🚀 Interesse em Backend, Full Stack e Mobile
+* 🚀 Interesse em **Backend, Full Stack e Mobile**
 
 Gosto de aprender **colocando a mão na massa**, transformando ideias em aplicações funcionais e buscando evoluir constantemente minhas práticas de desenvolvimento.
 
@@ -39,7 +39,7 @@ Aplicação desenvolvida para auxiliar no gerenciamento e acompanhamento de proc
 
 ### 📈 API de Análise de RSI para Criptomoedas
 
-API desenvolvida em Python para análise de indicadores de **Relative Strength Index (RSI)** aplicados ao mercado de criptomoedas.
+API desenvolvida em Python para análise do indicador **Relative Strength Index (RSI)** aplicado ao mercado de criptomoedas.
 
 **Tecnologias:**
 `Python` `Flask` `REST API`
@@ -71,49 +71,70 @@ Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organizaç�
 ### Linguagens
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 </div>
 
 ### Desenvolvimento
 
 <div style="display: inline_block">
-  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 </div>
 
 ### Banco de Dados & Cloud
 
 <div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
 </div>
 
 ### Ferramentas
 
 <div style="display: inline_block">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<a href="https://github.com/KennnedyRamos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennnedyRamos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KennnedyRamos\&theme=tokyo-night\&hide_border=true)
 
-<a href="https://github.com/KennnedyRamos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennnedyRamos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+</div>
+
+---
+
+## 🏆 Conquistas no GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KennnedyRamos&theme=tokyonight&no-frame=true&margin-w=10" />
 
 </div>
 
@@ -133,14 +154,17 @@ Quero contribuir para produtos e soluções que gerem **impacto real**, ao mesmo
 
 📩 **Aberto a conversar sobre oportunidades em desenvolvimento de software.**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KennnedyRamos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="left">
+
+<a href="https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KennnedyRamos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
