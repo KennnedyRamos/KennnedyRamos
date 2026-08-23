@@ -1,25 +1,143 @@
-### Ola! Eu sou o Kennedy Ramos 👋😊
+# Olá! Eu sou o Kennedy Ramos 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
+### Desenvolvedor Full Stack | Python & Flutter 🚀
 
-Estudante dedicado, apaixonado por programação e imerso no universo da tecnologia. Busco constantemente desafios que me permitam aprimorar minhas habilidades e contribuir para 
-soluções inovadoras, ajudando pessoas.
+Sou **Desenvolvedor Full Stack com foco em Python e Flutter** e gosto de transformar problemas reais em soluções digitais que sejam úteis, organizadas e fáceis de manter.
 
+Minha trajetória começou na área de **TI**, onde desenvolvi experiência com suporte, sistemas e melhoria de processos. Essa experiência também me trouxe uma visão prática de como a tecnologia pode ser utilizada para resolver problemas reais do dia a dia.
 
-### Tecnologias que eu estou familiarizado
+Atualmente, meu foco está no desenvolvimento de **APIs, aplicações web e aplicações mobile**, utilizando principalmente Python e Flutter.
 
+---
+
+## 👨‍💻 Sobre mim
+
+* 💻 Desenvolvedor **Full Stack**
+* 🐍 Foco em **Python, FastAPI e Flask**
+* 📱 Desenvolvimento mobile com **Flutter e Dart**
+* 🌐 Desenvolvimento web com **React**
+* 🔗 Desenvolvimento e integração de **APIs REST**
+* 🗄️ Banco de dados com **PostgreSQL**
+* 🔥 Desenvolvimento com **Firebase**
+* 🔧 Versionamento com **Git e GitHub**
+* 🚀 Interesse em Backend, Full Stack e Mobile
+
+Gosto de aprender **colocando a mão na massa**, transformando ideias em aplicações funcionais e buscando evoluir constantemente minhas práticas de desenvolvimento.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📊 Plataforma Full Stack para Gestão Operacional
+
+Aplicação desenvolvida para auxiliar no gerenciamento e acompanhamento de processos operacionais.
+
+**Tecnologias:**
+`Python` `FastAPI` `PostgreSQL` `React` `REST API`
+
+---
+
+### 📈 API de Análise de RSI para Criptomoedas
+
+API desenvolvida em Python para análise de indicadores de **Relative Strength Index (RSI)** aplicados ao mercado de criptomoedas.
+
+**Tecnologias:**
+`Python` `Flask` `REST API`
+
+---
+
+### 📱 Aplicativo Flutter para Controle de Equipamentos
+
+Aplicação mobile desenvolvida para gerenciamento e controle de equipamentos e materiais.
+
+**Tecnologias:**
+`Flutter` `Dart` `Firebase`
+
+---
+
+### 📅 Aplicativo de Agendamento
+
+Aplicativo completo desenvolvido com **Flutter e Firebase**, envolvendo autenticação, gerenciamento de dados, agendamentos e integração com serviços em nuvem.
+
+Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organização da aplicação e resolução de problemas.
+
+**Tecnologias:**
+`Flutter` `Dart` `Firebase` `Firestore`
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
 
-![Linguagens mais utiliadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KennnedyRamos&theme=blue-green)
+### Desenvolvimento
 
-![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=KennnedyRamos&show_icons=true&theme=dark)
+<div style="display: inline_block">
+  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
+
+### Banco de Dados & Cloud
+
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
+
+### Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennnedyRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennnedyRamos&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade para atuar profissionalmente como:
+
+**Desenvolvedor Full Stack • Backend Python • Desenvolvedor Flutter**
+
+Quero contribuir para produtos e soluções que gerem **impacto real**, ao mesmo tempo em que continuo evoluindo tecnicamente e profissionalmente.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+📩 **Aberto a conversar sobre oportunidades em desenvolvimento de software.**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KennnedyRamos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 Transformando problemas reais em soluções digitais.
