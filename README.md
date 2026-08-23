@@ -120,23 +120,20 @@ Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organizaç�
 
 ---
 
-## 📈 Atividade no GitHub
+## 💡 O que você encontrará por aqui
 
-<div align="center">
+🔹 **Projetos reais** — aplicações desenvolvidas para resolver problemas práticos.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KennnedyRamos\&theme=tokyo-night\&hide_border=true)
+🔹 **Backend** — APIs REST, integração de serviços e desenvolvimento com Python.
 
-</div>
+🔹 **Mobile** — aplicações Flutter/Dart integradas a Firebase.
 
----
+🔹 **Full Stack** — aplicações envolvendo frontend, backend, banco de dados e APIs.
 
-## 🏆 Conquistas no GitHub
+🔹 **Automação** — soluções para otimizar tarefas e processos.
 
-<div align="center">
+🔹 **Aprendizado contínuo** — projetos utilizados para aplicar e aprofundar conhecimentos em desenvolvimento de software.
 
-<img src="https://github-profile-trophy.vercel.app/?username=KennnedyRamos&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
 
 ---
 
