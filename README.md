@@ -37,12 +37,14 @@ Aplicação desenvolvida para auxiliar no gerenciamento e acompanhamento de proc
 
 ---
 
-### 📈 API de Análise de RSI para Criptomoedas
+### 📅 Aplicativo de Agendamento
 
-API desenvolvida em Python para análise do indicador **Relative Strength Index (RSI)** aplicado ao mercado de criptomoedas.
+Aplicativo completo desenvolvido com **Flutter e Firebase**, envolvendo autenticação, gerenciamento de dados, agendamentos e integração com serviços em nuvem.
+
+Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organização da aplicação e resolução de problemas.
 
 **Tecnologias:**
-`Python` `Flask` `REST API`
+`Flutter` `Dart` `Firebase` `Firestore`
 
 ---
 
@@ -55,14 +57,12 @@ Aplicação mobile desenvolvida para gerenciamento e controle de equipamentos e 
 
 ---
 
-### 📅 Aplicativo de Agendamento
+### 📈 API de Análise de RSI para Criptomoedas
 
-Aplicativo completo desenvolvido com **Flutter e Firebase**, envolvendo autenticação, gerenciamento de dados, agendamentos e integração com serviços em nuvem.
-
-Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organização da aplicação e resolução de problemas.
+API desenvolvida em Python para análise do indicador **Relative Strength Index (RSI)** aplicado ao mercado de criptomoedas.
 
 **Tecnologias:**
-`Flutter` `Dart` `Firebase` `Firestore`
+`Python` `Flask` `REST API`
 
 ---
 
