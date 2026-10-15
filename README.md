@@ -26,7 +26,7 @@ Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores,
   <tr><td>🎯&nbsp;<b>Busco</b></td><td>Desenvolvedor Full Stack • Back End Python • Mobile Flutter</td></tr>
   <tr><td>🧰&nbsp;<b>Stack&nbsp;principal</b></td><td>Python (FastAPI, Flask) • Flutter/Dart • React • PostgreSQL • Firebase</td></tr>
   <tr><td>🎓&nbsp;<b>Formação</b></td><td>Tecnologia em Análise e Desenvolvimento de Sistemas — FACENS (concluído em dez/2025)</td></tr>
-  <tr><td>📚&nbsp;<b>Pós-graduação</b></td><td>Análise de Dados e Inteligência Artificial — em andamento</td></tr>
+  <tr><td>📚&nbsp;<b>Pós&#8209;graduação</b></td><td>Análise de Dados e Inteligência Artificial — em andamento</td></tr>
   <tr><td>📜&nbsp;<b>Certificações</b></td><td>Flutter Development (Google Skills Boost) • Python (SENAI) • Cybersecurity (Santander Open Academy) • Front End React e Back End Java (Adah Tech)</td></tr>
   <tr><td>📍&nbsp;<b>Localização</b></td><td>Registro – SP, Brasil</td></tr>
   <tr><td>💼&nbsp;<b>Freelance</b></td><td>Também desenvolvo projetos sob demanda — <a href="https://kennedyramos-dev.vercel.app">kennedyramos-dev.vercel.app</a></td></tr>
