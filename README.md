@@ -1,168 +1,131 @@
-# Olá! Eu sou o Kennedy Ramos 👋
+<a href="https://kennedyramos-dev.vercel.app">
+  <img src="https://kennedyramos-dev.vercel.app/opengraph-image.jpg" alt="Kennedy Ramos — Desenvolvedor Full Stack, Back End e Mobile" width="100%" />
+</a>
 
-### Desenvolvedor Full Stack | Python & Flutter 🚀
+<div align="center">
 
-Sou **Desenvolvedor Full Stack com foco em Python e Flutter** e gosto de transformar problemas reais em soluções digitais que sejam úteis, organizadas e fáceis de manter.
+<a href="https://kennedyramos-dev.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack;APIs+REST+com+Python%2C+FastAPI+e+Flask;Apps+mobile+com+Flutter+e+Firebase;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es" alt="Desenvolvedor Full Stack • APIs com Python • Apps com Flutter" />
+</a>
 
-Minha trajetória começou na área de **TI**, onde desenvolvi experiência com suporte, sistemas e melhoria de processos. Essa experiência também me trouxe uma visão prática de como a tecnologia pode ser utilizada para resolver problemas reais do dia a dia.
+<br/>
 
-Atualmente, meu foco está no desenvolvimento de **APIs, aplicações web e aplicações mobile**, utilizando principalmente Python e Flutter.
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-kennedyramos--dev.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://kennedyramos-dev.vercel.app)
+[![Solicitar orçamento](https://img.shields.io/badge/Solicitar_or%C3%A7amento-8b5cf6?style=for-the-badge)](https://kennedyramos-dev.vercel.app/contato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997781009)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennedyrafaelsilvaramos@gmail.com)
 
----
+</div>
 
 ## 👨‍💻 Sobre mim
 
-* 💻 Desenvolvedor **Full Stack**
-* 🐍 Foco em **Python, FastAPI e Flask**
-* 📱 Desenvolvimento mobile com **Flutter e Dart**
-* 🌐 Desenvolvimento web com **React**
-* 🔗 Desenvolvimento e integração de **APIs REST**
-* 🗄️ Banco de dados com **PostgreSQL**
-* 🔥 Desenvolvimento com **Firebase**
-* 🔧 Versionamento com **Git e GitHub**
-* 🚀 Interesse em **Backend, Full Stack e Mobile**
+Sou **desenvolvedor Full Stack com foco em Python e Flutter** e gosto de transformar problemas reais em soluções digitais úteis, organizadas e fáceis de manter. Desenvolvo **APIs, sistemas web e aplicativos mobile de ponta a ponta** — da modelagem do banco de dados à interface — com testes, integração contínua e deploy em produção.
 
-Gosto de aprender **colocando a mão na massa**, transformando ideias em aplicações funcionais e buscando evoluir constantemente minhas práticas de desenvolvimento.
+Minha trajetória começou na **área de TI**, com suporte, sistemas e melhoria de processos. Essa base me dá uma visão prática do negócio: antes de escrever código, entendo o problema, quem vai usar o sistema e o resultado que ele precisa gerar.
 
----
+- 🐍 **Back end:** Python, FastAPI e Flask • APIs REST • autenticação JWT • PostgreSQL
+- 📱 **Mobile:** Flutter e Dart com Firebase (Authentication, Firestore, Cloud Messaging e Cloud Functions)
+- 🌐 **Web:** React integrado às APIs, interfaces responsivas
+- 🚀 **Entrega:** testes automatizados, CI no GitHub Actions e deploy em Vercel, Render, Supabase, Firebase e Docker
+
+> 💼 **Disponível para projetos freelance** — e aberto a oportunidades como Desenvolvedor Full Stack, Back End Python ou Flutter.
+
+## 🎯 O que eu entrego
+
+| 🌐 Full Stack | ⚙️ Back End | 📱 Mobile |
+|---|---|---|
+| Sistemas web completos — painéis, plataformas de gestão e SaaS — do banco de dados à interface. | APIs REST seguras em Python, integrações (pagamentos, ERP, bots) e automação de processos. | Apps Android e iOS com Flutter: login, dados em tempo real, notificações push e publicação nas lojas. |
 
 ## 🚀 Projetos em destaque
 
-### 📊 Plataforma Full Stack para Gestão Operacional
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KennnedyRamos/barberkr-app"><img src="assets/barberkr.webp" alt="BarberKR" width="100%" /></a>
+      <h3>✂️ BarberKR</h3>
+      <p>App de agendamento que conecta clientes e barbearias: descoberta por proximidade, agenda em tempo real, chat, notificações push e pagamentos via Pix/Mercado Pago.</p>
+      <p>
+        ✅ Reserva transacional: um horário nunca é ocupado por dois clientes<br/>
+        ✅ Perfis de cliente e barbeiro, com painel financeiro e plano Premium<br/>
+        ✅ CI no GitHub Actions, testes e release Android assinado
+      </p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Cloud Functions</code> <code>Mercado Pago</code></p>
+      <p><a href="https://github.com/KennnedyRamos/barberkr-app"><b>📂 Ver código</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KennnedyRamos/gestao_de_tarefas"><img src="assets/gestao-operacional.webp" alt="Gestão Operacional" width="100%" /></a>
+      <h3>📊 Gestão Operacional</h3>
+      <p>Plataforma full stack que centraliza tarefas, rotinas, entregas, retiradas, comodatos e inventário de equipamentos de uma operação de campo real.</p>
+      <p>
+        ✅ Busca global no banco por equipamento, modelo, RG, etiqueta ou cliente<br/>
+        ✅ Login JWT com perfis e permissões por funcionalidade<br/>
+        ✅ Importação de bases CSV, relatórios em Excel e leitura com OCR
+      </p>
+      <p><code>React</code> <code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>Supabase</code></p>
+      <p><a href="https://gestao-de-tarefas-nine.vercel.app"><b>🌐 Ver online</b></a> &nbsp;•&nbsp; <a href="https://github.com/KennnedyRamos/gestao_de_tarefas"><b>📂 Ver código</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KennnedyRamos/API_RSI"><img src="assets/rsi-radar.webp" alt="RSI Radar" width="100%" /></a>
+      <h3>📈 RSI Radar</h3>
+      <p>Plataforma que monitora o RSI(14) de criptomoedas: coleta candles da Binance, guarda o histórico em PostgreSQL e envia alertas no Telegram.</p>
+      <p>
+        ✅ RSI com suavização de Wilder, calculado só com candles fechados<br/>
+        ✅ Fila de envio persistente e idempotente, com novas tentativas<br/>
+        ✅ API REST versionada, dashboard web, Docker e CI com testes
+      </p>
+      <p><code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code> <code>Telegram</code></p>
+      <p><a href="https://github.com/KennnedyRamos/API_RSI"><b>📂 Ver código</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KennnedyRamos/controle-equipamentos-marketing-flutter"><img src="assets/controle-equipamentos.webp" alt="Controle de Equipamentos e Marketing" width="100%" /></a>
+      <h3>📦 Controle de Equipamentos</h3>
+      <p>App Android para controlar equipamentos e materiais de marketing, com login, sincronização em tempo real e exportação para Excel.</p>
+      <p>
+        ✅ Cadastro completo com Cloud Firestore em tempo real<br/>
+        ✅ Fotos pela câmera ou galeria, com visualização em tela cheia<br/>
+        ✅ Exportação .xlsx direto para Downloads, funcionando offline
+      </p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Android</code></p>
+      <p><a href="https://github.com/KennnedyRamos/controle-equipamentos-marketing-flutter"><b>📂 Ver código</b></a></p>
+    </td>
+  </tr>
+</table>
 
-Aplicação desenvolvida para auxiliar no gerenciamento e acompanhamento de processos operacionais.
+<p align="center">➡️ Veja todos os projetos no meu portfólio: <a href="https://kennedyramos-dev.vercel.app/projetos"><b>kennedyramos-dev.vercel.app/projetos</b></a></p>
 
-**Tecnologias:**
-`Python` `FastAPI` `PostgreSQL` `React` `REST API`
+## 🧠 Como eu trabalho
 
----
-
-### 📅 Aplicativo de Agendamento
-
-Aplicativo completo desenvolvido com **Flutter e Firebase**, envolvendo autenticação, gerenciamento de dados, agendamentos e integração com serviços em nuvem.
-
-Esse projeto exigiu um processo mais aprofundado de desenvolvimento, organização da aplicação e resolução de problemas.
-
-**Tecnologias:**
-`Flutter` `Dart` `Firebase` `Firestore`
-
----
-
-### 📱 Aplicativo Flutter para Controle de Equipamentos
-
-Aplicação mobile desenvolvida para gerenciamento e controle de equipamentos e materiais.
-
-**Tecnologias:**
-`Flutter` `Dart` `Firebase`
-
----
-
-### 📈 API de Análise de RSI para Criptomoedas
-
-API desenvolvida em Python para análise do indicador **Relative Strength Index (RSI)** aplicado ao mercado de criptomoedas.
-
-**Tecnologias:**
-`Python` `Flask` `REST API`
-
----
+| | Prática | Onde ver na prática |
+|---|---|---|
+| 🔒 | Valores e regras sensíveis validados no servidor | Preços e comissões calculados no back end — **BarberKR** |
+| ⚛️ | Consistência de dados | Reserva de horário com transação atômica — **BarberKR** |
+| 🛡️ | Segurança e controle de acesso | JWT com permissões por funcionalidade — **Gestão Operacional** |
+| 🔁 | Integrações confiáveis | Fila de envio idempotente, com novas tentativas — **RSI Radar** |
+| 🧪 | Qualidade contínua | Testes e CI no GitHub Actions — **BarberKR**, **Gestão Operacional** e **RSI Radar** |
+| ☁️ | Do código à produção | Deploy em Vercel, Render, Supabase, Firebase e Docker |
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,flutter,dart,react,js,java,postgres,firebase,supabase,docker,git,githubactions,vercel&perline=8" alt="Python, FastAPI, Flask, Flutter, Dart, React, JavaScript, Java, PostgreSQL, Firebase, Supabase, Docker, Git, GitHub Actions e Vercel" />
+</p>
 
-<div style="display: inline_block">
+## 🤝 Vamos tirar seu projeto do papel?
 
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+Precisa de um **sistema web, uma API ou um aplicativo**? Responda o briefing guiado no meu site e receba uma proposta sob medida — ou me chame direto no WhatsApp.
 
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<div align="center">
 
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+[![Solicitar orçamento](https://img.shields.io/badge/Solicitar_or%C3%A7amento-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://kennedyramos-dev.vercel.app/contato)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997781009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennedyrafaelsilvaramos@gmail.com)
 
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br/>
 
-</div>
-
-### Desenvolvimento
-
-<div style="display: inline_block">
-
-<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+*💡 Transformando problemas reais em soluções digitais.*
 
 </div>
-
-### Banco de Dados & Cloud
-
-<div style="display: inline_block">
-
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</div>
-
-### Ferramentas
-
-<div style="display: inline_block">
-
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</div>
-
----
-
-## 💡 O que você encontrará por aqui
-
-🔹 **Projetos reais** — aplicações desenvolvidas para resolver problemas práticos.
-
-🔹 **Backend** — APIs REST, integração de serviços e desenvolvimento com Python.
-
-🔹 **Mobile** — aplicações Flutter/Dart integradas a Firebase.
-
-🔹 **Full Stack** — aplicações envolvendo frontend, backend, banco de dados e APIs.
-
-🔹 **Automação** — soluções para otimizar tarefas e processos.
-
-🔹 **Aprendizado contínuo** — projetos utilizados para aplicar e aprofundar conhecimentos em desenvolvimento de software.
-
-
----
-
-## 🎯 Objetivo profissional
-
-Busco uma oportunidade para atuar profissionalmente como:
-
-**Desenvolvedor Full Stack • Backend Python • Desenvolvedor Flutter**
-
-Quero contribuir para produtos e soluções que gerem **impacto real**, ao mesmo tempo em que continuo evoluindo tecnicamente e profissionalmente.
-
----
-
-## 🤝 Vamos nos conectar?
-
-📩 **Aberto a conversar sobre oportunidades em desenvolvimento de software.**
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KennnedyRamos">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### 💡 Transformando problemas reais em soluções digitais.
