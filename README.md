@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack;Back+end+com+Python%2C+FastAPI+e+Flask;Mobile+com+Flutter+e+Firebase;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full Stack • Python • Flutter • Aberto a oportunidades" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack;Back+end+com+Python%2C+FastAPI+e+Flask;Mobile+com+Flutter+e+Firebase;P%C3%B3s+em+An%C3%A1lise+de+Dados+e+IA;Aberto+a+novas+oportunidades" alt="Desenvolvedor Full Stack • Python • Flutter • Aberto a oportunidades" />
 
 <br/>
 
@@ -16,16 +16,17 @@
 
 ## 👋 Sobre mim
 
-Sou **desenvolvedor Full Stack com foco em Python e Flutter**. Construo **APIs REST, aplicações web e apps mobile de ponta a ponta** — modelagem do banco, regras de negócio, autenticação, interface, testes, CI e deploy em produção.
+Sou **desenvolvedor Full Stack com foco em Python e Flutter**, formado em Análise e Desenvolvimento de Sistemas e cursando **pós-graduação em Análise de Dados e Inteligência Artificial**. Construo **APIs REST, aplicações web e apps mobile de ponta a ponta** — modelagem do banco, regras de negócio, autenticação, interface, testes, CI e deploy em produção.
 
-Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores, análise de dados (Power BI) e melhoria de processos** na operação comercial de uma distribuidora Ambev. Essa vivência faz diferença no código: dois dos meus principais projetos nasceram de **problemas operacionais reais** e foram pensados para quem usa o sistema no dia a dia.
+Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores, análise de dados (Power BI) e melhoria de processos** na operação comercial da **Ribeira Beer (distribuidora Ambev)** — onde uso no dia a dia o **Gestão Operacional**, plataforma full stack que eu mesmo desenvolvi para resolver problemas reais dessa operação.
 
 ## 📌 Em resumo
 
 <table>
   <tr><td>🎯&nbsp;<b>Busco</b></td><td>Desenvolvedor Full Stack • Back End Python • Mobile Flutter</td></tr>
   <tr><td>🧰&nbsp;<b>Stack&nbsp;principal</b></td><td>Python (FastAPI, Flask) • Flutter/Dart • React • PostgreSQL • Firebase</td></tr>
-  <tr><td>🎓&nbsp;<b>Formação</b></td><td>Tecnologia em Análise e Desenvolvimento de Sistemas — FACENS</td></tr>
+  <tr><td>🎓&nbsp;<b>Formação</b></td><td>Tecnologia em Análise e Desenvolvimento de Sistemas — FACENS (concluído em dez/2025)</td></tr>
+  <tr><td>📚&nbsp;<b>Pós-graduação</b></td><td>Análise de Dados e Inteligência Artificial — em andamento</td></tr>
   <tr><td>📜&nbsp;<b>Certificações</b></td><td>Flutter Development (Google Skills Boost) • Python (SENAI) • Cybersecurity (Santander Open Academy) • Front End React e Back End Java (Adah Tech)</td></tr>
   <tr><td>📍&nbsp;<b>Localização</b></td><td>Registro – SP, Brasil</td></tr>
   <tr><td>💼&nbsp;<b>Freelance</b></td><td>Também desenvolvo projetos sob demanda — <a href="https://kennedyramos-dev.vercel.app">kennedyramos-dev.vercel.app</a></td></tr>
@@ -33,6 +34,7 @@ Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores,
 
 ## 🏆 Destaques técnicos
 
+- 🏭 **Software em uso real** — o Gestão Operacional é usado no dia a dia da operação na **Ribeira Beer (distribuidora Ambev)**, centralizando tarefas, entregas, comodatos e inventário de equipamentos.
 - 🔒 **Concorrência resolvida no banco** — reserva de horário com transação atômica: dois clientes nunca ocupam o mesmo horário *(BarberKR)*.
 - 💳 **Pagamentos com segurança** — Pix/Mercado Pago em modelo marketplace, preço validado no servidor, webhook assinado e tokens OAuth criptografados com AES-256-GCM *(BarberKR)*.
 - 📦 **Dados em volume** — importação em fluxo de arquivos de até **1 GB / 3 milhões de linhas**, com relatórios exportados em Excel *(Gestão Operacional)*.
@@ -47,10 +49,10 @@ Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores,
     <td width="50%" valign="top">
       <a href="https://github.com/KennnedyRamos/gestao_de_tarefas"><img src="assets/gestao-operacional.webp" alt="Gestão Operacional" width="100%" /></a>
       <h3>📊 Gestão Operacional</h3>
-      <p><b>Problema:</b> informações espalhadas, consultas lentas e pouca rastreabilidade entre cliente, equipamento e movimentação numa operação de campo.</p>
+      <p><b>Problema:</b> na operação da Ribeira Beer (distribuidora Ambev), informações espalhadas, consultas lentas e pouca rastreabilidade entre cliente, equipamento e movimentação.</p>
       <p><b>Solução:</b> plataforma full stack com tarefas, rotinas, entregas, retiradas, comodatos e inventário — busca global no banco, permissões por perfil, importação de bases e leitura com OCR.</p>
       <p><code>React</code> <code>FastAPI</code> <code>Python</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Pytest</code></p>
-      <p><a href="https://gestao-de-tarefas-nine.vercel.app"><b>🌐 Em produção</b></a> &nbsp;•&nbsp; <a href="https://github.com/KennnedyRamos/gestao_de_tarefas"><b>📂 Código</b></a></p>
+      <p><a href="https://gestao-de-tarefas-nine.vercel.app"><b>🟢 Em uso na Ribeira Beer</b></a> &nbsp;•&nbsp; <a href="https://github.com/KennnedyRamos/gestao_de_tarefas"><b>📂 Código</b></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/KennnedyRamos/barberkr-app"><img src="assets/barberkr.webp" alt="BarberKR" width="100%" /></a>
@@ -97,10 +99,11 @@ Venho da **área de TI (suporte e sistemas)** e hoje trabalho com **indicadores,
 
 ## 🧭 Trajetória
 
-- 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas** — FACENS
+- 📚 **Pós-graduação em Análise de Dados e Inteligência Artificial** — em andamento
+- 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas** — FACENS, concluído em dez/2025
 - 🛠️ **Estágio em TI / Suporte** — suporte a usuários e sistemas, investigação de problemas e melhoria de processos
-- 📊 **Ribeira Beer (distribuidora Ambev)** — desde mar/2025: indicadores e análise de dados com Power BI, rotinas no sistema Promax e melhoria de processos operacionais
-- 💻 **Desenvolvimento** — APIs, sistemas web e apps mobile com Python, Flutter e React, com testes, CI e deploy (o Gestão Operacional está em produção)
+- 📊 **Ribeira Beer (distribuidora Ambev)** — desde mar/2025: indicadores e análise de dados com Power BI, rotinas no sistema Promax e melhoria de processos — e o Gestão Operacional, sistema que desenvolvi e uso no dia a dia
+- 💻 **Desenvolvimento** — APIs, sistemas web e apps mobile com Python, Flutter e React, com testes, CI e deploy (o Gestão Operacional está em uso na Ribeira Beer)
 
 ## 📫 Vamos conversar?
 
@@ -122,11 +125,11 @@ Estou **aberto a oportunidades** como Desenvolvedor Full Stack, Back End Python 
 
 **Full Stack Developer** focused on **Python (FastAPI, Flask)** and **Flutter**, building REST APIs, web apps and mobile apps end to end — data modeling, business rules, authentication, UI, automated tests, CI and production deploys.
 
-- **Operations platform** (React + FastAPI + PostgreSQL): global database search, role-based permissions, streaming import of files up to 1 GB.
+- **Operations platform** (React + FastAPI + PostgreSQL), in daily use at Ribeira Beer (an Ambev distributor): global database search, role-based permissions, streaming import of files up to 1 GB.
 - **BarberKR** (Flutter + Firebase): transactional booking, chat, push notifications and marketplace payments with server-side validation.
 - **RSI Radar** (Python + PostgreSQL): crypto RSI monitoring with an idempotent outbox for Telegram alerts.
 
-Background in IT support and data/process improvement. Education: Systems Analysis and Development (technologist program) — FACENS. Based in Registro – SP, Brazil.
+Background in IT support and data/process improvement. Graduated in Systems Analysis and Development (FACENS, Dec 2025) and currently pursuing a postgraduate degree in Data Analytics and Artificial Intelligence. Based in Registro – SP, Brazil.
 Open to **Full Stack, Python Back End and Flutter** roles — [LinkedIn](https://www.linkedin.com/in/kennedy-silva-ramos-566b00150/) • [Resume (EN)](https://kennnedyramos.github.io/assets/curriculo-kennedy-ramos-en.pdf) • [E-mail](mailto:kennedyrafaelsilvaramos@gmail.com)
 
 </details>
